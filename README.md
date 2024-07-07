@@ -23,3 +23,6 @@ haring
 
 # Outcome:
 After initial data cleaning and exploratory data analysis performed using python, the dataset was loaded into tableau to perform further analysis. Several key insights relating to sales, sales representatives, customers and products were uncovered and conveyed with the help of dashboards. Time series analysis was also performed to better understand historical trends and to also convey future expectations. The analysis can help stakeholders make informed decisions and rectify problems which have been uncovered.
+
+# Dashboard link:
+https://public.tableau.com/views/SalesDataAnalysis_17199448516570/Trendsovertime?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
